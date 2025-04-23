@@ -97,6 +97,9 @@ This Power BI dashboard delivers real-time insights across several core areas:
 
 
 ---
+## 🔗 Read the Article on Medium
+
+👉 [Click here to read the Article on Medium](https://medium.com/@IamOmarDarwesh/transforming-call-center-performance-with-power-bi-9a165a2a1f68)
 
 ## 🔗 Live Dashboard Access
 
