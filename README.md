@@ -32,7 +32,8 @@ These goals were supported by a deep exploration of agent-level data, time-based
 
 ### 🛑 Abandonment Rate: A Solvable Challenge
 
-- The **overall abandonment rate** stands at **19%**, which can be significantly improved.
+- The **overall abandonment rate** stands at **19%**, which can be significantly improved. Our objective is to push this number towards zero as much as possible. The best-case scenario is to get it to zero.
+  
 - Astonishingly, **40% of abandoned calls occur during just two hours daily** — **9:00 AM** and **12:00 PM**.
 - Agent-specific trends reveal:
   - At **9 AM**, **Greg, Diane, and Stewart** contribute to **70%** of the hour’s abandonment.
@@ -51,11 +52,14 @@ On **Tuesdays and Wednesdays**, the last hour of operation (**6:00 PM**) shows a
 Delivering solutions efficiently is at the heart of customer satisfaction. The data reveals:
 
 - **Technical Support** and **Payment Related** inquiries have the **lowest resolution rates** — both at **72%**.
+  - These topics should be prioritized for immediate, targeted training to improve outcomes.
+    
 - Individual agent performance highlights areas of opportunity:
+- The agents (Diane and Martha) have the lowest call resolution rates of 71% and 72%, respectively.
   - **Martha**: Lowest in **Streaming (65%)** and **Technical Support (68%)**
   - **Diane**: Struggles with **Contract Related (67%)** and **Payment Related (68%)**
 
-🎯 **Action Plan:** Provide **tailored training** to address agent-specific weaknesses and elevate resolution outcomes across these high-impact categories.
+🎯 **Action Plan:** Provide **tailored training** to address agent-specific weaknesses, elevate resolution outcomes across these high-impact categories, and empower agents to deliver exceptional service.
 
 ---
 
@@ -91,12 +95,15 @@ This Power BI dashboard delivers real-time insights across several core areas:
 - **Microsoft Excel**: For data transformation and enrichment
 - **DAX**: To build KPIs, time-intelligence measures, and custom logic
 
+
 ---
 
 ## 🔗 Live Dashboard Access
 
 👉 [Click here to view the live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDc0YWQ5ZjgtMWU5MS00OWQxLTg4YTgtYTAwYjRlZDAzNmFkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+---
+![Screenshot 2025-04-23 170209](https://github.com/user-attachments/assets/a15ab8e3-be9d-4bee-a9be-adb231809fb3)
 ---
 
 ## 💬 Final Thoughts
@@ -118,7 +125,7 @@ Let data tell the story. Let insights shape the future.
 Feel free to reach out or follow along on [LinkedIn](https://www.linkedin.com/in/iamomardarwesh/) or [Email](mailto:omarelsayeddarwesh@gmail.com).
 
 
----
+
 
 
 
